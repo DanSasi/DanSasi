@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width ="400" src ="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dansasi&label=Profile%20views&color=0e75b6&style=flat" alt="dansasi" /> </p>
 
-- 💬 Ask me about **Android, JavaScript , #C , Java, C++, C**
+- 💬 Ask me about **Android, JavaScript , #C , Java, C++, C**, HTML, CSS
 
 - 📫 How to reach me **dan.sasi60@gmail.com**
 
